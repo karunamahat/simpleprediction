@@ -21,8 +21,9 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Expected output of this project
+![Screenshot 2024-06-12 143032](https://github.com/karunamahat/simpleprediction/assets/155524862/93d20758-4de5-4396-9958-d48c1ea07cb1)
 <img width="959" alt="Screenshot 2024-06-12 143101" src="https://github.com/karunamahat/simpleprediction/assets/155524862/1b1f49fd-e83c-4e2e-9190-c6b9c6a49596">
 
-![Screenshot 2024-06-12 143032](https://github.com/karunamahat/simpleprediction/assets/155524862/93d20758-4de5-4396-9958-d48c1ea07cb1)
+
 
 
