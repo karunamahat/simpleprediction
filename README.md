@@ -22,9 +22,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Expected output of this project
 <img width="959" alt="Screenshot 2024-06-12 143101" src="https://github.com/karunamahat/simpleprediction/assets/155524862/1b1f49fd-e83c-4e2e-9190-c6b9c6a49596">
-<img width="959" alt="Screenshot 2024-06-12 143101" src="https://github.com/karunamahat/simpleprediction/assets/155524862/1b1f49fd-e83c-4e2e-9190-c6b9c6a49596">
-<img width="959" alt="image" src="https://github.com/karunamahat/simpleprediction/assets/155524862/a55e9eea-7ec9-4737-bdbe-168ec695fd88">
-<img width="959" alt="image" src="https://github.com/karunamahat/simpleprediction/assets/155524862/a55e9eea-7ec9-4737-bdbe-168ec695fd88">
+
+![Screenshot 2024-06-12 143032](https://github.com/karunamahat/simpleprediction/assets/155524862/93d20758-4de5-4396-9958-d48c1ea07cb1)
 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
